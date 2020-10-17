@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nested-components-react/static/css/main.f8a77616.chunk.css",
+    "main.js": "/Nested-components-react/static/js/main.899157db.chunk.js",
+    "main.js.map": "/Nested-components-react/static/js/main.899157db.chunk.js.map",
+    "runtime-main.js": "/Nested-components-react/static/js/runtime-main.508839ed.js",
+    "runtime-main.js.map": "/Nested-components-react/static/js/runtime-main.508839ed.js.map",
+    "static/js/2.585fd38e.chunk.js": "/Nested-components-react/static/js/2.585fd38e.chunk.js",
+    "static/js/2.585fd38e.chunk.js.map": "/Nested-components-react/static/js/2.585fd38e.chunk.js.map",
+    "index.html": "/Nested-components-react/index.html",
+    "precache-manifest.69628a1a1b32e6b9789f8c1af2a93d62.js": "/Nested-components-react/precache-manifest.69628a1a1b32e6b9789f8c1af2a93d62.js",
+    "service-worker.js": "/Nested-components-react/service-worker.js",
+    "static/css/main.f8a77616.chunk.css.map": "/Nested-components-react/static/css/main.f8a77616.chunk.css.map",
+    "static/js/2.585fd38e.chunk.js.LICENSE.txt": "/Nested-components-react/static/js/2.585fd38e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.508839ed.js",
+    "static/js/2.585fd38e.chunk.js",
+    "static/css/main.f8a77616.chunk.css",
+    "static/js/main.899157db.chunk.js"
+  ]
+}

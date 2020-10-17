@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:"Franklin Gothic Medium","Arial Narrow",Arial,sans-serif;background:#deb887;background-color:#00008b}.booklist{width:90vw;max-width:1170px;margin:5rem auto;display:grid;grid-gap:2rem;gap:2rem}@media screen and (min-width:768px){.booklist{grid-template-columns:repeat(3,1fr)}}
+/*# sourceMappingURL=main.f8a77616.chunk.css.map */
